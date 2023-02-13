@@ -38,7 +38,7 @@ I am a highly motivated and enthusiastic mini software developer with a passion 
 #
 
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 Strixy's Coding Journey</h3></summary>
    As a child, I was always fascinated by technology and the endless possibilities that it held. It wasn't until high school that I discovered my true passion for coding. I taught myself how to code by tinkering with simple Python and Lua and eventually moved on to learning more complex programming languages such as Java and C++.
 
 [website]: https://strixy.tk
